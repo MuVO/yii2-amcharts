@@ -1,0 +1,27 @@
+{
+  "name": "muvo/yii2-amcharts",
+  "version": "2016.04.30.1",
+  "type": "yii2-extension",
+  "description": "amCharts widget for Yii2",
+  "keywords": [
+    "yii2",
+    "widget",
+    "charts",
+    "amcharts"
+  ],
+  "authors": [
+    {
+      "name": "Vladislav Muschinskikh",
+      "email": "i@unixoid.su"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "^2",
+    "bower-asset/amcharts3": {}
+  },
+  "autoload": {
+    "psr-4": {
+      "muvo\\yii\\amcharts\\": ""
+    }
+  }
+}
