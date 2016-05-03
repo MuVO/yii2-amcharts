@@ -1,7 +1,8 @@
 {
   "name": "muvo/yii2-amcharts",
-  "version": "0.1.1",
+  "time": "2016-05-03",
   "type": "yii2-extension",
+  "license": "BSD-3-Clause",
   "description": "amCharts widget for Yii2",
   "keywords": [
     "yii2",
