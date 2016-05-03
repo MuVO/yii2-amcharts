@@ -60,4 +60,4 @@ In your _view_ file you can add chart as regular widget, like:
 
 # Credits
 
-[Vladislav Muschinskikh](mailto:i@unixoid.su) © 2016
+Vladislav Muschinskikh <i@unixoid.su> © 2016
